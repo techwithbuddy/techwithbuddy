@@ -91,11 +91,32 @@ An innovative project focused on intelligent user interaction and modern web exp
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Certifications
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=techwithbuddy&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+🎖️ Open Source Contributor — GirlScript Summer of Code (GSSoC'26)
+
+🚀 Participant — Merge Conflict 48-Hour National Hackathon 2026
+
+🛰️ Participant — ISRO National Space Day Hackathon 2025
+- Represented Guru Nanak Dev University
+- Explored innovation challenges inspired by India's space missions
+
+💻 Certified in Web Development Using Python
+- Aptech Learning
+- Completed with Distinction
+
+☕ Certified in Smart Pro Java Web Application Development
+- Aptech Learning
+- Completed with Distinction
+
+🏅 Active Hackathon Participant
+- Built real-world solutions in EdTech, Productivity, and Software Development
+
+📚 Technical Content Writer
+- Share technology learnings and cricket insights through Medium
+
+🌱 Continuous Learner
+- Consistently improving skills in DSA, Web Development, Open Source, and Problem Solving
 
 ---
 
