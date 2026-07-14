@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+Student+at+GNDU;Open+Source+Contributor+%7C+GSSoC'26;Web+Developer+%7C+Problem+Solver;Building+Projects+That+Matter+🚀" />
+  <img src="https://github.com/techwithbuddy/techwithbuddy/blob/main/assets/techwithbuddy-logo.gif" width="700">
 </p>
 
 ---
